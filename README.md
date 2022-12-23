@@ -1,19 +1,19 @@
 <center>
 
-![Jatin's Coding-guy](https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif)
+<!-- ![Jatin's Coding-guy](https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif) -->
 
 <p align="center">
   <img height="50%" width="50%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif" alt="Sublime's custom image"/>
 </p>
 
-<img align="center" height="70%" width="70%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif">
+<!-- <img align="center" height="70%" width="70%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif"> -->
 
 ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical)
 
 ![Jatin's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical)
 
 </center>
-<p style="text-align: center;">
+<p align="center">
 
 <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img
