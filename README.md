@@ -10,6 +10,17 @@ Passionate about **Programming & problem solving**. Eager to infuse new things i
 </p>
 
 ### Coding Contributions
+
+
+<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&theme=react" width="410" alt="Jatin-stats"></a>
+<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-parmar&theme=react&ring=ffffff" width="410" alt="Jatin-stats"></a>
+
+<!-- https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&theme=redical -->
+
+
+<!-- https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&color=d8bc4b&title_color=EB3E85&line=93DCD8&point=EB3E85&theme=xcode%22%20width=%22800%22%20alt=%22Jatin-parmarContributionGraph -->
+
+
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical"/>
 </p>
