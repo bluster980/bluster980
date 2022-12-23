@@ -6,9 +6,9 @@
   <img height="80%" width="80%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif"/>
 </p>
 
-<table><tr><td>
+<kbd> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical" />
-</td></tr></table>
+</kbd>
 
 <!-- <img align="center" height="70%" width="70%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif"> -->
 <p align="left">
