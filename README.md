@@ -1,4 +1,4 @@
-<center>
+
 
 <!-- ![Jatin's Coding-guy](https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif) -->
 
@@ -26,8 +26,7 @@
 
 <!-- ![Jatin's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical) -->
 
-</center>
-<p align="center">
+<p align="right">
 
 <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img
