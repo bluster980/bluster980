@@ -1,5 +1,5 @@
 ## Welcome To My GitHub Profile, I'm Jatin 🤝
-⇨ I'm Passionate about Programming & problem solving. Eager to infuse new things in Real World Through           Programming.
+I'm Passionate about **Programming & problem solving**. Eager to infuse new things in Real World Through Programming.
 - Currently Pursuing B.Tech Degree in **Computer Science & Engineering** at Ahmedabad University
 - Competitive Programmer
 - Exploring Front-end Development & Back-end Development.
