@@ -18,8 +18,8 @@ https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&them
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=A8FDF6&height=3&section=header&%20render">
 
 
-<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&show_icons=true&theme=radical&&bg_color=000000&hide_border=true" width="420" alt="Jatin-stats"></a>
-<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-parmar&background=000000&theme=radical&sideNums=A8FDF6&fire=A8FDF6&hide_border=true" width="420" alt="Jatin-stats"></a>
+<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&show_icons=true&theme=radical&&bg_color=000000&hide_border=true" width="418" alt="Jatin-stats"></a>
+<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-parmar&background=000000&theme=radical&sideNums=A8FDF6&fire=A8FDF6&hide_border=true" width="418" alt="Jatin-stats"></a>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=A8FDF6&height=3&section=header&%20render">
 
