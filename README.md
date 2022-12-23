@@ -8,7 +8,7 @@
 
 <!-- <img align="center" height="70%" width="70%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif"> -->
 <p align="left">
-  <img width="101%" src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical"/>
 </p>
 
 <p align="left">
