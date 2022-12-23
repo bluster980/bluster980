@@ -6,21 +6,21 @@
   <img height="80%" width="80%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif"/>
 </p>
 
-<img style="border:10px solid white;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical" alt="Photo of Milford Sound in New Zealand" />
+<img style="border:40px solid white;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical" alt="Photo of Milford Sound in New Zealand" />
 
 
-<kbd> 
+<!-- <kbd> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical" />
-</kbd>
+</kbd> -->
 
 <!-- <img align="center" height="70%" width="70%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif"> -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical"/>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img bordersrc="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical"/>
-</p>
+</p> -->
 
 <!-- ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical) -->
 
