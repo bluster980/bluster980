@@ -2,6 +2,10 @@
 
 ![Jatin's Coding-guy](https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif)
 
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 <img align="center" height="70%" width="70%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif">
 
 ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical)
