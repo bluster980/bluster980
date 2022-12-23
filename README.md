@@ -11,9 +11,15 @@ Passionate about **Programming & problem solving**. Eager to infuse new things i
 
 ### Coding Contributions
 
+<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&bg_color=000000&hide_border=true&custom_title=Contributions%20Graph&area=true&area_color=e73737&color=efd362&title_color=EB3E85&line=93DCD8&point=EB3E85&theme=xcode%22%20width=%22800%22%20alt=%22Jatin-parmarContributionGraph" width="800" alt="JuletopiContribution-graph"></a>
 
-<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&theme=react&hide_border=true" width="421" alt="Jatin-stats"></a>
-<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-parmar&theme=react&ring=ffffff&hide_border=true" width="421" alt="Jatin-stats"></a>
+<!-- https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&bg_color=000000&hide_border=true&custom_title=Contributions%20Graph&area=true&area_color=e73737&color=efd362&title_color=EB3E85&line=93DCD8&point=EB3E85&theme=xcode%22%20width=%22800%22%20alt=%22Jatin-parmarContributionGraph
+https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&theme=react&custom_title=Contributions%20Graph -->
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=61D9FA&height=3&section=header&%20render">
+
+
+<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&show_icons=true&theme=radical&&bg_color=000000&hide_border=true" width="421" alt="Jatin-stats"></a>
+<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-parmar&background=000000&theme=radical&sideNums=A8FDF6&fire=A8FDF6&hide_border=true" width="421" alt="Jatin-stats"></a>
 
 <!-- https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&theme=redical -->
 
