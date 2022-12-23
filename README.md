@@ -1,5 +1,16 @@
 <center>
 
+![Kitten](https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?w=600# thumbnail bordered)
+
+img[src~="thumbnail"] {
+   width:150px;
+   height:100px;
+}
+img[src~="bordered"] {
+   border: 1px solid black;
+}
+
+
 <!-- ![Jatin's Coding-guy](https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif) -->
 
 <p align="center">
