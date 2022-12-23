@@ -12,11 +12,12 @@
 </kbd> -->
 
 <!-- <img align="center" height="70%" width="70%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif"> -->
-
+<p>Coding Contributions</p>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical"/>
 </p>
 
+<p>GitHub Stats</p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical"/>
 </p>
@@ -26,7 +27,8 @@
 
 <!-- ![Jatin's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical) -->
 
-<p align="right">
+<p>Languages & Frameworks</p>
+<p align="left">
 
 <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img
