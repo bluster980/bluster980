@@ -2,13 +2,9 @@
 
 <!-- ![Jatin's Coding-guy](https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif) -->
 
-<img src="https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?w=600" style="border-radius:550px;width:100%;height:auto">
-
 <p align="center">
   <img height="80%" width="80%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif"/>
 </p>
-
-<img style="border:40px solid white;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical" alt="Photo of Milford Sound in New Zealand" />
 
 
 <!-- <kbd> 
@@ -20,9 +16,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical"/>
 </p>
 
-<!-- <p align="left">
+<p align="left">
   <img bordersrc="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical"/>
-</p> -->
+</p>
 
 <!-- ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical) -->
 
