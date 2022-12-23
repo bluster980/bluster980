@@ -15,11 +15,13 @@ Passionate about **Programming & problem solving**. Eager to infuse new things i
 
 <!-- https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&bg_color=000000&hide_border=true&custom_title=Contributions%20Graph&area=true&area_color=e73737&color=efd362&title_color=EB3E85&line=93DCD8&point=EB3E85&theme=xcode%22%20width=%22800%22%20alt=%22Jatin-parmarContributionGraph
 https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&theme=react&custom_title=Contributions%20Graph -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=61D9FA&height=3&section=header&%20render">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=A8FDF6&height=3&section=header&%20render">
 
 
 <a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&show_icons=true&theme=radical&&bg_color=000000&hide_border=true" width="421" alt="Jatin-stats"></a>
 <a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-parmar&background=000000&theme=radical&sideNums=A8FDF6&fire=A8FDF6&hide_border=true" width="421" alt="Jatin-stats"></a>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=A8FDF6&height=3&section=header&%20render">
 
 <!-- https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&theme=redical -->
 
@@ -27,14 +29,14 @@ https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&them
 <!-- https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&color=d8bc4b&title_color=EB3E85&line=93DCD8&point=EB3E85&theme=xcode%22%20width=%22800%22%20alt=%22Jatin-parmarContributionGraph -->
 
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical"/>
 </p>
 
 ### GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical"/>
-</p>
+</p> -->
 
 ### Languages & Frameworks
 <p align="left">
