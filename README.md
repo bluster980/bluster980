@@ -1,6 +1,6 @@
 ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical)
 
-<p align="center">
+<p style="text-align: center;">
 
 <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img
