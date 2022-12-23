@@ -1,33 +1,25 @@
-
-
-<!-- ![Jatin's Coding-guy](https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif) -->
+## Welcome To My GitHub Profile, I'm Jatin 🤝
+I'm Passionate about Programming & problem solving. Eager to infuse new things in Real World Through Programming.
+- Currently Pursuing B.Tech Degree in **Computer Science & Engineering** at Ahmedabad University
+- Competitive Programmer
+- Exploring Front-end Development & Back-end Development.
+- Proficient in **C++**, **JavaScript**
 
 <p align="left">
   <img height="80%" width="80%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif"/>
 </p>
 
-
-<!-- <kbd> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical" />
-</kbd> -->
-
-<!-- <img align="center" height="70%" width="70%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy.gif"> -->
-<p>Coding Contributions</p>
+### Coding Contributions
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical"/>
 </p>
 
-<p>GitHub Stats</p>
+### GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical"/>
 </p>
 
-
-<!-- ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical) -->
-
-<!-- ![Jatin's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical) -->
-
-<p>Languages & Frameworks</p>
+### Languages & Frameworks
 <p align="left">
 
 <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
