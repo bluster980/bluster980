@@ -6,7 +6,7 @@ Passionate about **Programming & problem solving**. Eager to infuse new things i
 - Proficient in **C++**, **JavaScript**
 
 <p align="center">
-  <img height="80%" width="80%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy-Dark.gif"/>
+  <img height="100%" width="100%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy-Dark.gif"/>
 </p>
 
 ### Coding Contributions
@@ -18,8 +18,8 @@ https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&them
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=A8FDF6&height=3&section=header&%20render">
 
 
-<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&show_icons=true&theme=radical&&bg_color=000000&hide_border=true" width="410" alt="Jatin-stats"></a>
-<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-parmar&background=000000&theme=radical&sideNums=A8FDF6&fire=A8FDF6&hide_border=true" width="410" alt="Jatin-stats"></a>
+<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-stats.vercel.app/api?username=Jatin-parmar&show_icons=true&theme=radical&&bg_color=000000&hide_border=true" width="48%" alt="Jatin-stats"></a>
+<a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-parmar&background=000000&theme=radical&sideNums=A8FDF6&fire=A8FDF6&hide_border=true" width="48%" alt="Jatin-stats"></a>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=A8FDF6&height=3&section=header&%20render">
 
