@@ -1,6 +1,6 @@
 ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin-parmar&&show_icons=true&theme=radical)
 <!-- <img border="1" src = " -->
-![Jatin's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&theme=radical)
+![Jatin's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jatin-parmar&&show_icons=true&theme=radical)
 <!-- " /> -->
 <p style="text-align: center;">
 
