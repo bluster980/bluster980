@@ -1,4 +1,4 @@
-## Welcome To My GitHub Profile, I'm Jatin 🤝 <p align="left"><img src="https://komarev.com/ghpvc/?Jatin-parmar=your-github-username&color=dc143c"/></p>
+## Welcome To My GitHub Profile, I'm Jatin 🤝 <p align="right"><img src="https://komarev.com/ghpvc/?username=Jatin-parmar&color=F7D747"/></p>
 Passionate about **Programming & problem solving**. Eager to infuse new things in Real World Through Programming.
 - Currently Pursuing B.Tech Degree in **Computer Science & Engineering** at Ahmedabad University.
 - Competitive Programmer.
