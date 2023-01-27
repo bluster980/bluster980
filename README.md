@@ -1,4 +1,4 @@
-## Welcome To My GitHub Profile, I'm Jatin <img width=35px height=35px src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> <img align="right" src="https://komarev.com/ghpvc/?username=Jatin-parmar&color=D53777"/>
+## Welcome To My GitHub Profile, I'm Jatin <img width=35px height=35px src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> 
 Passionate about **Programming & problem solving**. Eager to infuse new things in Real World Through Programming.
 - Currently Pursuing B.Tech Degree in **Computer Science & Engineering** at Ahmedabad University.
 - Competitive Programmer.
@@ -11,7 +11,7 @@ Passionate about **Programming & problem solving**. Eager to infuse new things i
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=A8FDF6&height=3&section=header&%20render"> -->
 
-### Coding Contributions
+### Coding Contributions <img align="right" src="https://komarev.com/ghpvc/?username=Jatin-parmar&color=D53777"/>
 
 <a href="https://github.com/Jatin-parmar/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jatin-parmar&bg_color=000000&hide_border=true&custom_title=Contributions%20Graph&area=true&area_color=e73737&color=efd362&title_color=EB3E85&line=93DCD8&point=EB3E85&theme=xcode%22%20width=%22800%22%20alt=%22Jatin-parmarContributionGraph" width="98%" alt="JuletopiContribution-graph"></a>
 
