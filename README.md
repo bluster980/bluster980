@@ -4,7 +4,7 @@ Passionate about **Programming & problem solving**. Eager to infuse new things i
 - Competitive Programmer.
 - Exploring Front-end Development & Back-end Development.
 - Proficient in **C++**, **JavaScript**.
-
+ 
 <!-- <p align="center">
   <img height="80%" width="80%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy-Dark.gif"/>
 </p>
