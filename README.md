@@ -9,6 +9,8 @@ Passionate about **Programming & problem solving**. Eager to infuse new things i
   <img height="80%" width="80%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy-Dark.gif"/>
 </p>
 
+just testing
+
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=A8FDF6&height=3&section=header&%20render"> -->
 
 ### Coding Contributions
