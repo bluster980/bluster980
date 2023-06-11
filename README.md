@@ -2,7 +2,7 @@
 Passionate about **Programming & problem solving**. Eager to infuse new things in Real World Through Programming.
 - Currently Pursuing B.Tech Degree in **Computer Science & Engineering** at Ahmedabad University.
 - Competitive Programmer.
-- Exploring Front-end Development & Back-end Development.
+- Exploring Front-end Development & Back-end Development. 
 - Proficient in **C++**, **JavaScript**.
  
 <!-- <p align="center">
