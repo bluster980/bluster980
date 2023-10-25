@@ -77,5 +77,6 @@ src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/a0d82d9758b7d67
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=D53777&height=3&section=header&%20render">
 
+### Contributions
 <img
 src="https://raw.githubusercontent.com/bluster980/bluster980/cb975737ef795aa62ee18dd56958eac499a4e006/svgs/Bluster980_Contribution_File.svg">
