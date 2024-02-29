@@ -68,7 +68,7 @@ src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/a0d82d9758b7d67
 <img
 src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/a0d82d9758b7d677e0512c05f4558fb134329a16/svgs/leetcode.svg" alt="html" style="vertical-align:top; margin:4px">
 <img
-src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/a0d82d9758b7d677e0512c05f4558fb134329a16/svgs/codechef.svg" alt="html" style="vertical-align:top; margin:4px">
+src="https://raw.githubusercontent.com/bluster980/bluster980/6018388405bf7e30862902070e8f678fc7791759/svgs/codechef%20(1).svg" alt="html" style="vertical-align:top; margin:4px">
 <img
 src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/a0d82d9758b7d677e0512c05f4558fb134329a16/svgs/hackerrank.svg" alt="html" style="vertical-align:top; margin:4px">
 <img
