@@ -1,6 +1,6 @@
 ## Welcome To My GitHub Profile, I'm Jatin <img width=35px height=35px src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/giphy_Hi.webp"> <img align="right" src="https://komarev.com/ghpvc/?username=Jatin-parmar&color=D53777"/>
 Passionate about **Programming & Problem Solving**. Eager to infuse new things in Real World Through Programming.
-- Working as a Backend Engineer Intern at Smallcase.
+- Worked as a Backend Engineer Intern at Smallcase.
 - Currently Pursuing B.Tech Degree in **Computer Science & Engineering** at Ahmedabad University.
 - Competitive Programmer.
 - Exploring Front-end Development & Back-end Development.
