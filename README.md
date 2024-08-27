@@ -2,7 +2,7 @@
 Passionate about **Programming & Problem Solving**. Eager to infuse new things in Real World Through Programming.
 - Worked as a Backend Engineer Intern at Smallcase.
 - Currently Pursuing B.Tech Degree in **Computer Science & Engineering** at Ahmedabad University.
-- Competitive Programmer.
+- Competitive Programmer. 
 - Exploring Front-end Development & Back-end Development.
 - Proficient in **C++**, **JavaScript** & learning **Golang**.
  
