@@ -4,7 +4,7 @@ Passionate about **Programming & Problem Solving**. Eager to infuse new things i
 - Currently Pursuing B.Tech Degree in **Computer Science & Engineering** at Ahmedabad University.
 - Competitive Programmer. 
 - Exploring Front-end Development & Back-end Development.
-- Proficient in **C++**, **JavaScript** & learning **Golang**.  
+- Proficient in **C++**, **JavaScript** & learning **Golang**. 
  
 <!-- <p align="center">
   <img height="80%" width="80%" src="https://raw.githubusercontent.com/Jatin-parmar/Jatin-Parmar/main/gifs/Coding-Guy-Dark.gif"/>
